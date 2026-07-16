@@ -22,17 +22,17 @@ The system incorporates multiple sensors and actuators connected through a centr
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🌾 Soil moisture monitoring with automatic irrigation
-- 🔥 Fire and smoke detection with automatic sprinkler activation
-- 🐾 Wild animal intrusion detection using PIR sensors
-- 💡 Smart lighting based on ambient light conditions
-- 🚪 RFID-based smart door access control
-- 🌬️ Air quality monitoring with automated exhaust fans
-- ☀️ Solar-powered energy management
-- 📡 DHCP-enabled automatic IP address allocation
-- 📶 Wireless communication through a centralized Home Gateway
+-  Soil moisture monitoring with automatic irrigation
+-  Fire and smoke detection with automatic sprinkler activation
+-  Wild animal intrusion detection using PIR sensors
+-  Smart lighting based on ambient light conditions
+-  RFID-based smart door access control
+-  Air quality monitoring with automated exhaust fans
+-  Solar-powered energy management
+-  DHCP-enabled automatic IP address allocation
+-  Wireless communication through a centralized Home Gateway
 
 
 
@@ -75,19 +75,19 @@ The system incorporates multiple sensors and actuators connected through a centr
 ### Network Topology
 
 <p align="center">
-<img src="images/Logical view of the design.png" width="700">
+<img src="Images/Logical view of the design.png" width="700">
 </p>
 
 ### Physical Layout
 
 <p align="center">
-<img src="images/Physical view of the design.png" width="700">
+<img src="Images/Physical view of the design.png" width="700">
 </p>
 
 ### Ping Test
 
 <p align="center">
-<img src="images/Ping results.png" width="700">
+<img src="Images/Ping results.png" width="700">
 </p>
 
 ---
