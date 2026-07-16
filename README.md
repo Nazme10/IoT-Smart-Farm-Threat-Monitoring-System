@@ -4,17 +4,17 @@
 ![License](https://img.shields.io/badge/License-MIT-red)
 
 
-# IoT-Smart-Farm-Threat-Monitoring-System
+# 🌱 IoT-Based Smart Farm Threat Monitoring System
 IoT-based Smart Farm Threat Monitoring System using Cisco Packet Tracer with DHCP, IoT sensors, smart automation, and real-time monitoring.
 
 
 
-# 🌱 IoT-Based Smart Farm Threat Monitoring System
+
 
 
 ---
 
-## 📖 Overview
+##  Overview
 
 Traditional farming often relies on manual monitoring, making it difficult to respond quickly to environmental changes and security threats. This project demonstrates how IoT technologies can be integrated into agriculture to create an automated smart farming environment.
 
@@ -105,25 +105,25 @@ The system incorporates multiple sensors and actuators connected through a centr
 
 ## 📈 System Modules
 
-### 🌾 Soil Moisture Monitoring
+###  Soil Moisture Monitoring
 Automatically activates the sprinkler system when soil moisture falls below a predefined threshold.
 
-### 🔥 Fire Detection
+###  Fire Detection
 Detects smoke and immediately activates both the alarm and sprinkler system.
 
-### 🐾 Wild Animal Detection
+###  Wild Animal Detection
 Uses PIR sensors to detect movement and trigger a siren to deter intrusions.
 
-### 🚪 Smart Door Security
+###  Smart Door Security
 Allows access only to authorized RFID cards while rejecting unauthorized users.
 
-### 🌬️ Air Quality Monitoring
+###  Air Quality Monitoring
 Monitors CO₂ concentration and automatically activates exhaust fans when required.
 
-### ☀️ Solar Energy Management
+###  Solar Energy Management
 Uses solar panels and battery management to provide sustainable power for IoT devices.
 
-### 💡 Smart Lighting
+###  Smart Lighting
 Adjusts lighting automatically based on surrounding light intensity.
 
 ---
